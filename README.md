@@ -5,4 +5,4 @@
 # ❓Neler İçeriyor?
 - Sakila database'i üzerinden ilerlenmiş ve içerisindeki her bir ödev özelinde istenen sonuçların pandas manipülasyonları ile elde edilmesi çalışılmıştır.
 
-- read_sql_query fonksiyonu sadece gerekli veri setinin database'den çekilmesi için kullanılmıştır. Geriye kalan bütün manipülasyon işlemleri agregattion ve groupby gibi metot ve fonksiyonlardan oluşmaktadır.
+- read_sql_query fonksiyonu sadece gerekli veri setinin database'den çekilmesi için kullanılmıştır. Geriye kalan bütün manipülasyon işlemleri agregattion, merge ve groupby gibi metot ve fonksiyonlardan oluşmaktadır.
